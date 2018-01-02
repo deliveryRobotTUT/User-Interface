@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resource/TurtleBot.jpg</file>
+        <file>resource/another-green-start-button.svg</file>
+    </qresource>
+</RCC>
