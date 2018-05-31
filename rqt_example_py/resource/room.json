@@ -1,0 +1,12 @@
+{"room1": {"position_x": 7.0, "position_y": -0.7, "position_z": 0.0,
+"orientation_x":0.0,"orientation_y":0.0, "orientation_z": 0.0,"orientation_w": 1.0},
+"room2": {"position_x": 7.0, "position_y": 4.1, "position_z": 0.0,
+"orientation_x":0.0,"orientation_y":0.0, "orientation_z": 0.0,"orientation_w": 1.0},
+"room3": {"position_x": 7.0, "position_y": 7.2, "position_z": 0.0,
+"orientation_x":0.0,"orientation_y":0.0, "orientation_z": 0.0,"orientation_w": 1.0},
+"room4": {"position_x": 7.0, "position_y": 10.5, "position_z": 0.0,
+"orientation_x":0.0,"orientation_y":0.0, "orientation_z": 0.0,"orientation_w": 1.0},
+"room5": {"position_x": 6.0, "position_y": 10.8, "position_z": 0.0,
+"orientation_x":0.0,"orientation_y":0.0, "orientation_z": 0.0,"orientation_w": 1.0},
+"room6": {"position_x": 6.0, "position_y": 6.0, "position_z": 0.0,
+"orientation_x":0.0,"orientation_y":0.0, "orientation_z": 0.0,"orientation_w": 1.0}}
